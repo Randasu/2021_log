@@ -1,0 +1,21 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-05-13 00:00:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2021-05-30 00:51:54 133.242.13.171 GET /bunkazai/ - 80 - 157.55.39.72 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 234
+2021-05-30 00:52:14 133.242.13.171 GET /bunkazai/css/common.css - 80 - 207.46.13.117 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 234
+2021-05-30 00:52:14 133.242.13.171 GET /bunkazai/css/reset.css - 80 - 207.46.13.117 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 109
+2021-05-30 03:04:33 133.242.13.171 GET /bunkazai/syosai.asp no=406 80 - 40.77.167.21 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 187
+2021-05-30 04:09:54 133.242.13.171 GET /bunkazai/syosai.asp no=406 80 - 153.239.230.0 Mozilla/5.0+(Android+8.0.0;+Mobile;+rv:88.0)+Gecko/88.0+Firefox/88.0 200 0 0 156
+2021-05-30 04:09:54 133.242.13.171 GET /bunkazai/css/reset.css - 80 - 153.239.230.0 Mozilla/5.0+(Android+8.0.0;+Mobile;+rv:88.0)+Gecko/88.0+Firefox/88.0 200 0 0 156
+2021-05-30 04:09:54 133.242.13.171 GET /bunkazai/css/common.css - 80 - 153.239.230.0 Mozilla/5.0+(Android+8.0.0;+Mobile;+rv:88.0)+Gecko/88.0+Firefox/88.0 200 0 0 312
+2021-05-30 04:09:54 133.242.13.171 GET /bunkazai/img/top_name.png - 80 - 153.239.230.0 Mozilla/5.0+(Android+8.0.0;+Mobile;+rv:88.0)+Gecko/88.0+Firefox/88.0 200 0 0 156
+2021-05-30 04:09:55 133.242.13.171 GET /bunkazai/img/toiawase.png - 80 - 153.239.230.0 Mozilla/5.0+(Android+8.0.0;+Mobile;+rv:88.0)+Gecko/88.0+Firefox/88.0 200 0 0 296
+2021-05-30 04:09:55 133.242.13.171 GET /bunkazai/img/gaido.png - 80 - 153.239.230.0 Mozilla/5.0+(Android+8.0.0;+Mobile;+rv:88.0)+Gecko/88.0+Firefox/88.0 200 0 0 140
+2021-05-30 04:09:55 133.242.13.171 GET /bunkazai/img/jyouken.png - 80 - 153.239.230.0 Mozilla/5.0+(Android+8.0.0;+Mobile;+rv:88.0)+Gecko/88.0+Firefox/88.0 200 0 0 187
+2021-05-30 04:09:55 133.242.13.171 GET /bunkazai/img/tizu.png - 80 - 153.239.230.0 Mozilla/5.0+(Android+8.0.0;+Mobile;+rv:88.0)+Gecko/88.0+Firefox/88.0 200 0 0 171
+2021-05-30 04:09:55 133.242.13.171 GET /bunkazai/css/back.jpg - 80 - 153.239.230.0 Mozilla/5.0+(Android+8.0.0;+Mobile;+rv:88.0)+Gecko/88.0+Firefox/88.0 200 0 0 218
+2021-05-30 04:09:55 133.242.13.171 GET /bunkazai/img/photo/須磨琴（一絃琴）.jpg - 80 - 133.242.13.171 - 404 0 2 0
+2021-05-30 04:16:30 133.242.13.171 GET /bunkazai/ - 80 - 157.55.39.72 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0 109
+2021-05-30 17:53:20 133.242.13.171 GET /bunkazai/ - 80 - 93.158.90.114 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+11.1;+rv:84.0)+Gecko/20100101+Firefox/84.0 200 0 0 546
+2021-05-30 18:13:49 133.242.13.171 GET /bunkazai/ - 80 - 54.36.149.14 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) 200 0 0 499

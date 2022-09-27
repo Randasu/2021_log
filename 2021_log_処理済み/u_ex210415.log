@@ -1,0 +1,10 @@
+2021-04-15 04:28:15 133.242.13.171 GET /bunkazai/ - 80 - 13.66.139.133 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 234
+2021-04-15 10:55:41 133.242.13.171 GET /bunkazai/map.html - 80 - 40.77.167.38 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0 171
+2021-04-15 12:34:54 133.242.13.171 GET /bunkazai/syosai.asp no=551 80 - 13.66.139.104 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 124
+2021-04-15 13:14:05 133.242.13.171 GET /bunkazai/syosai.asp no=406 80 - 54.36.149.6 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) 200 0 0 234
+2021-04-15 17:00:52 133.242.13.171 GET /bunkazai/search.html - 80 - 40.77.167.58 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0 171
+2021-04-15 19:52:31 133.242.13.171 GET /bunkazai/syosai.asp no=551 80 - 66.249.66.74 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.127+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 171
+2021-04-15 20:07:40 133.242.13.171 GET /bunkazai/ - 80 - 40.77.167.61 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0 171
+2021-04-15 20:16:30 133.242.13.171 GET /bunkazai/ - 80 - 13.66.139.133 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 234
+2021-04-15 23:33:46 133.242.13.171 GET /bunkazai/css/common.css - 80 - 40.77.167.52 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 358
+2021-04-15 23:33:46 133.242.13.171 GET /bunkazai/css/reset.css - 80 - 40.77.167.52 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 171

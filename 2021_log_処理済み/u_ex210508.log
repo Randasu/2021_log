@@ -1,0 +1,11 @@
+2021-05-08 00:20:45 133.242.13.171 GET /bunkazai/syosai.asp no=551 80 - 114.119.144.7 Mozilla/5.0+(Linux;+Android+7.0;)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Mobile+Safari/537.36+(compatible;+PetalBot;+https://webmaster.petalsearch.com/site/petalbot) 200 0 0 78
+2021-05-08 00:50:27 133.242.13.171 GET /bunkazai/ - 80 - 207.46.13.54 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0 109
+2021-05-08 06:42:38 133.242.13.171 GET /bunkazai/guid.html - 80 - 185.191.171.8 Mozilla/5.0+(compatible;+SemrushBot/7~bl;++http://www.semrush.com/bot.html) 200 0 0 234
+2021-05-08 10:49:26 133.242.13.171 GET /bunkazai/map.html - 80 - 40.77.167.38 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0 187
+2021-05-08 10:52:13 133.242.13.171 GET /bunkazai/guid.html - 80 - 207.46.13.156 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0 109
+2021-05-08 12:01:44 133.242.13.171 GET /bunkazai/map.html - 80 - 185.191.171.41 Mozilla/5.0+(compatible;+SemrushBot/7~bl;++http://www.semrush.com/bot.html) 200 0 0 187
+2021-05-08 17:03:54 133.242.13.171 GET /bunkazai/ - 80 - 157.90.209.76 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) 200 0 0 546
+2021-05-08 18:05:34 133.242.13.171 GET /bunkazai/search.html - 80 - 207.46.13.156 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0 124
+2021-05-08 22:53:57 133.242.13.171 GET /bunkazai/map.html - 80 - 23.100.232.233 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.0;+Trident/5.0;++Trident/5.0) 200 0 0 171
+2021-05-08 22:53:57 133.242.13.171 GET /bunkazai/css/reset.css - 80 - 23.100.232.233 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.0;+Trident/5.0;++Trident/5.0) 200 0 0 171
+2021-05-08 22:53:57 133.242.13.171 GET /bunkazai/css/common.css - 80 - 23.100.232.233 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.0;+Trident/5.0;++Trident/5.0) 200 0 0 530

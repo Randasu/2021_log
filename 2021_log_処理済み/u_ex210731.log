@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-07-31 00:00:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-07-31 02:00:34 133.242.13.171 GET /bunkazai/map.html - 80 - 157.55.39.164 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0 109
 2021-07-31 02:22:13 133.242.13.171 GET /bunkazai/ - 80 - 66.249.68.86 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.90+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 109
 2021-07-31 02:34:16 133.242.13.171 GET /bunkazai/map.asp x=71351.9557554217&y=-149523.459011022 80 - 157.55.39.85 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 109

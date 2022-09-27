@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-03-24 00:00:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-03-24 00:07:44 133.242.13.171 GET /bunkazai/map.php x=134.988306126738&y=34.7089355779246&z=18&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=1c2ff128-5db5-43b0-b708-86879f243e52 80 - 207.46.13.197 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 468
 2022-03-24 00:20:01 133.242.13.171 GET /bunkazai/img/photo/荒井家住宅.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=50286bbf-dbde-4382-84ca-9a364d27aab2 80 - 133.242.13.171 - 404 0 0 0
 2022-03-24 00:20:01 133.242.13.171 GET /bunkazai/syousai-2.php no=66&x=135.123215&y=34.6483&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=b650242d-3490-4989-bd6d-efcc3a43da90 80 - 40.77.167.82 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 858

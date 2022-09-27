@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-05-02 00:00:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-05-02 00:49:35 133.242.13.171 GET /bunkazai/ - 80 - 207.46.13.54 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 234
 2021-05-02 06:22:21 133.242.13.171 GET /bunkazai/syosai.asp no=551 80 - 54.36.148.27 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) 200 0 0 249
 2021-05-02 07:13:25 133.242.13.171 GET /bunkazai/ - 80 - 59.147.179.30 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+14_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/14.0.2+Mobile/15E148+Safari/604.1 200 0 0 78

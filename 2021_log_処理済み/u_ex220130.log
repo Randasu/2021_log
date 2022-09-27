@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-01-30 00:00:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-01-30 00:16:57 133.242.13.171 GET /bunkazai/otoiawase.html X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=44a1ea4d-1574-4ce8-aeea-4d3498adecb2 80 - 66.249.66.72 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4692.99+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 733
 2022-01-30 00:41:57 133.242.13.171 GET /bunkazai/otoiawase.html X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=76f111c1-1f7b-4ef1-867b-35d3f852c382 80 - 66.249.66.74 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 249
 2022-01-30 03:40:24 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=cff99d4a-542a-4ae1-8de2-64e1fea3cece 80 - 207.46.13.7 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 358

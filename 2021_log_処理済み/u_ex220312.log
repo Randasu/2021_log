@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-03-12 00:00:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-03-12 00:42:39 133.242.13.171 GET /bunkazai/bunkazai_new.html X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=bacea3c3-a558-4891-a054-fa30692ec69c 80 - 207.46.13.63 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0 577
 2022-03-12 00:58:51 133.242.13.171 GET /bunkazai/img/photo/木造不動明王像.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=f0774bbc-16fb-4909-be30-ef1dd945214d 80 - 133.242.13.171 - 404 0 0 15
 2022-03-12 00:58:51 133.242.13.171 GET /bunkazai/syousai-2.php no=254&x=135.111712332515&y=34.6496740144239&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=e9081224-cbcd-40d6-9066-0d0f5da0a71f 80 - 207.46.13.63 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 1076

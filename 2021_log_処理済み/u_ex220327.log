@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-03-27 00:00:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-03-27 01:06:45 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=995a4503-cf2f-4db4-8519-e652a2095ef6 80 - 54.149.149.4 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.109+Safari/537.36 200 0 0 764
 2022-03-27 01:18:23 133.242.13.171 GET /bunkazai/guid.html/script.js X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=fbf73b98-db96-4697-be98-16a0e1237697 80 - 40.77.167.7 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) 404 0 0 218
 2022-03-27 01:19:36 133.242.13.171 GET /bunkazai/img/photo/長田神社.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=dac77b3d-97ce-408a-becc-a10191ac97dc 80 - 133.242.13.171 - 200 0 64 15

@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-10-03 00:00:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-10-03 00:29:52 133.242.13.171 GET /bunkazai/tyui.html X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=edcca818-5337-4781-8d5f-ee03ac6ffe73 80 - 185.191.171.17 Mozilla/5.0+(compatible;+SemrushBot/7~bl;++http://www.semrush.com/bot.html) 200 0 0 717
 2021-10-03 02:32:16 133.242.13.171 GET /bunkazai/syosai.asp no=406&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=ec9af2d7-4f1c-4f82-a2d8-cff98cde5e04 80 - 66.249.79.206 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.61+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 0 592
 2021-10-03 02:39:31 133.242.13.171 GET /bunkazai/map.php X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=333ee21e-a854-41e0-9dd2-f4fe105042cf 80 - 66.249.79.206 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.54+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 452

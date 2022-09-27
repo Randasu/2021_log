@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-12-09 00:00:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-12-09 00:38:48 133.242.13.171 HEAD /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=f5990fa1-af52-4d4e-ba8e-ad860b765055 80 - 218.251.114.7 H2C/1.0 200 0 0 312
 2021-12-09 01:49:30 133.242.13.171 GET /bunkazai/syosai.asp no=9039&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=97afd749-5895-4e4d-9698-02041ffe3154 80 - 202.12.244.119 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/96.0.4664.55+Safari/537.36+Edg/96.0.1054.43 404 0 0 327
 2021-12-09 01:49:35 133.242.13.171 GET /bunkazai/syosai.asp no=9039&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=503ad6d8-532e-4bf4-b1a9-29bc913e7302 80 - 202.12.244.119 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/96.0.4664.55+Safari/537.36+Edg/96.0.1054.43 404 0 0 93

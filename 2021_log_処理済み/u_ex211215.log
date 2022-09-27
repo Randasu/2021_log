@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-12-15 00:00:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-12-15 01:46:41 133.242.13.171 GET /bunkazai/bunkazai_new.html X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=bfca0038-378c-4dd1-8262-c7cb00226a9a 80 - 133.206.8.160 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:94.0)+Gecko/20100101+Firefox/94.0 200 0 0 592
 2021-12-15 01:46:41 133.242.13.171 GET /bunkazai/script.js X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=28a8bd2c-ff92-4507-82a1-bb35ec3d913e 80 - 133.206.8.160 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:94.0)+Gecko/20100101+Firefox/94.0 200 0 0 46
 2021-12-15 01:46:41 133.242.13.171 GET /bunkazai/image_files/tizukara2.png X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=a3e5e6e5-8173-4196-906b-6be550610e97 80 - 133.206.8.160 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:94.0)+Gecko/20100101+Firefox/94.0 200 0 0 156

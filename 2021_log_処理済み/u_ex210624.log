@@ -1,0 +1,24 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-06-24 00:00:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2021-06-24 03:42:40 133.242.13.171 GET /bunkazai/guid.html - 80 - 54.36.149.68 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) 200 0 0 296
+2021-06-24 04:21:16 133.242.13.171 GET /bunkazai/ - 80 - 125.132.153.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.101+Safari/537.36+OPR/77.0.4054.90 200 0 0 124
+2021-06-24 04:21:16 133.242.13.171 GET /bunkazai/css/reset.css - 80 - 125.132.153.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.101+Safari/537.36+OPR/77.0.4054.90 200 0 0 62
+2021-06-24 04:21:16 133.242.13.171 GET /bunkazai/css/common.css - 80 - 125.132.153.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.101+Safari/537.36+OPR/77.0.4054.90 200 0 0 62
+2021-06-24 04:21:16 133.242.13.171 GET /bunkazai/img/gaido.png - 80 - 125.132.153.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.101+Safari/537.36+OPR/77.0.4054.90 200 0 0 78
+2021-06-24 04:21:16 133.242.13.171 GET /bunkazai/img/toiawase.png - 80 - 125.132.153.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.101+Safari/537.36+OPR/77.0.4054.90 200 0 0 62
+2021-06-24 04:21:16 133.242.13.171 GET /bunkazai/img/top_name.png - 80 - 125.132.153.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.101+Safari/537.36+OPR/77.0.4054.90 200 0 0 124
+2021-06-24 04:21:16 133.242.13.171 GET /bunkazai/img/tizu.png - 80 - 125.132.153.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.101+Safari/537.36+OPR/77.0.4054.90 200 0 0 124
+2021-06-24 04:21:16 133.242.13.171 GET /bunkazai/img/tizu_kuwasiku.png - 80 - 125.132.153.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.101+Safari/537.36+OPR/77.0.4054.90 200 0 0 46
+2021-06-24 04:21:16 133.242.13.171 GET /bunkazai/img/jyouken.png - 80 - 125.132.153.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.101+Safari/537.36+OPR/77.0.4054.90 200 0 0 140
+2021-06-24 04:21:16 133.242.13.171 GET /bunkazai/img/kensaku.png - 80 - 125.132.153.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.101+Safari/537.36+OPR/77.0.4054.90 200 0 0 62
+2021-06-24 04:21:16 133.242.13.171 GET /bunkazai/img/syousai.png - 80 - 125.132.153.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.101+Safari/537.36+OPR/77.0.4054.90 200 0 0 46
+2021-06-24 04:21:16 133.242.13.171 GET /bunkazai/img/tizukara.png - 80 - 125.132.153.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.101+Safari/537.36+OPR/77.0.4054.90 200 0 0 202
+2021-06-24 04:21:16 133.242.13.171 GET /bunkazai/img/kantanni.png - 80 - 125.132.153.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.101+Safari/537.36+OPR/77.0.4054.90 200 0 0 124
+2021-06-24 04:21:16 133.242.13.171 GET /bunkazai/css/back.jpg - 80 - 125.132.153.101 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/91.0.4472.101+Safari/537.36+OPR/77.0.4054.90 200 0 0 312
+2021-06-24 05:13:21 133.242.13.171 GET /bunkazai/syosai.asp no=551 80 - 40.77.167.24 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 171
+2021-06-24 05:44:01 133.242.13.171 GET /bunkazai/guid.html - 80 - 35.162.157.3 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.109+Safari/537.36 200 0 0 109
+2021-06-24 05:47:40 133.242.13.171 GET /bunkazai/ - 80 - 52.10.52.243 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.109+Safari/537.36 200 0 0 218
+2021-06-24 11:44:26 133.242.13.171 GET /bunkazai/map.html - 80 - 207.46.13.157 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0 109
+2021-06-24 12:56:30 133.242.13.171 GET /bunkazai/guid.html - 80 - 207.46.13.22 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0 124

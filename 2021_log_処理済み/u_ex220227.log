@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-02-27 00:00:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-02-27 00:12:33 133.242.13.171 GET /bunkazai/map.php X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=237e8bd3-b15d-4734-9371-bb53de50978b 80 - 66.249.75.178 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/98.0.4758.102+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 936
 2022-02-27 00:12:39 133.242.13.171 GET /bunkazai/bunkazai_json.php X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=e879129a-4999-4c1b-b9bf-415912e3bdf7 80 - 66.249.75.176 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/98.0.4758.102+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 1201
 2022-02-27 02:03:12 133.242.13.171 GET /bunkazai/img/photo/木造不動明王像.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=0248affe-7249-417c-85f8-6cd249e16f81 80 - 133.242.13.171 - 404 0 0 15

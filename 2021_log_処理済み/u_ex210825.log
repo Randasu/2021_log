@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-08-25 00:00:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-08-25 01:01:27 133.242.13.171 GET /bunkazai/img/photo/丹生山・明要寺参道町石群.jpg - 80 - 122.215.121.49 - 404 0 2 31
 2021-08-25 01:29:01 133.242.13.171 GET /bunkazai/img/photo/太山寺本堂.jpg - 80 - 122.215.121.49 - 404 0 64 31
 2021-08-25 02:03:25 133.242.13.171 GET /bunkazai/img/photo/太山寺本堂.jpg - 80 - 122.215.121.49 - 404 0 64 31

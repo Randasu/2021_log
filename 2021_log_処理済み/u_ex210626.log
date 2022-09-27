@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-06-26 00:00:17
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-06-26 01:09:33 133.242.13.171 GET /bunkazai/ - 80 - 216.18.204.214 Mozilla/5.0+(compatible;+Adsbot/3.1;++https://seostar.co/robot/) 200 0 0 249
 2021-06-26 01:21:13 133.242.13.171 GET /bunkazai/map.html - 80 - 216.18.204.214 Mozilla/5.0+(compatible;+Adsbot/3.1;++https://seostar.co/robot/) 200 0 64 140
 2021-06-26 01:21:23 133.242.13.171 GET /bunkazai/guid.html - 80 - 216.18.204.214 Mozilla/5.0+(compatible;+Adsbot/3.1;++https://seostar.co/robot/) 200 0 64 156

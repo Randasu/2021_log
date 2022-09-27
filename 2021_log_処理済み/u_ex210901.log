@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-09-01 00:00:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-09-01 02:28:56 133.242.13.171 GET /bunkazai/map.html - 80 - 54.36.148.213 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) 200 0 0 265
 2021-09-01 03:17:48 133.242.13.171 GET /bunkazai/img/photo/須磨琴（一絃琴）.jpg - 80 - 133.242.13.171 - 404 0 2 0
 2021-09-01 04:19:51 133.242.13.171 HEAD /bunkazai/ - 80 - 218.251.114.7 H2C/1.0 200 0 0 31

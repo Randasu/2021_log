@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-09-09 00:00:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-09-09 02:56:54 133.242.13.171 GET /bunkazai/map.html - 80 - 66.249.66.82 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 171
 2021-09-09 05:43:44 133.242.13.171 GET /bunkazai/css/reset.css - 80 - 218.251.114.7 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko 200 0 0 31
 2021-09-09 05:43:44 133.242.13.171 GET /bunkazai/img/gaido.png - 80 - 218.251.114.7 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko 200 0 0 46

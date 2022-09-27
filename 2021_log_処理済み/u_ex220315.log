@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-03-15 00:00:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-03-15 02:19:31 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=f62f414b-206f-4656-a2f8-eda7dfb72c29 80 - 158.201.248.172 Mozilla/5.0+(X11;+CrOS+x86_64+14324.80.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4692.102+Safari/537.36 200 0 0 577
 2022-03-15 02:19:31 133.242.13.171 GET /bunkazai/bunkazai.all.css/reset.css X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=049871ed-968f-4d43-8a4a-d338560f357d 80 - 158.201.248.172 Mozilla/5.0+(X11;+CrOS+x86_64+14324.80.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4692.102+Safari/537.36 200 0 0 62
 2022-03-15 02:19:31 133.242.13.171 GET /bunkazai/bunkazai.all.css/bunkazai.css X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=75f8010c-0ca2-40af-9cf4-9e8b58a4b1d9 80 - 158.201.248.172 Mozilla/5.0+(X11;+CrOS+x86_64+14324.80.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4692.102+Safari/537.36 200 0 0 265

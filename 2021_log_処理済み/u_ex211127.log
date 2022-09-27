@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-11-27 00:00:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-11-27 01:27:57 133.242.13.171 GET /bunkazai/img/photo/旧小寺家厩舎.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=3124240d-f395-4f10-8587-536f60bed374 80 - 133.242.13.171 - 404 0 0 0
 2021-11-27 01:27:57 133.242.13.171 GET /bunkazai/syousai-2.php no=7&x=135.181925586991&y=34.6932945964154&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=cebba3cb-7a84-4814-9b0a-4cc788dc0148 80 - 185.191.171.20 Mozilla/5.0+(compatible;+SemrushBot/7~bl;++http://www.semrush.com/bot.html) 200 0 0 1450
 2021-11-27 01:37:28 133.242.13.171 GET /bunkazai/guid.html X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=fe661565-fb1d-4c3f-8e14-b442a3c59947 80 - 51.222.253.18 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) 200 0 0 343

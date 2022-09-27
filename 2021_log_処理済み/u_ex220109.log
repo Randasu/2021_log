@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-01-09 00:00:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-01-09 02:40:51 133.242.13.171 GET /bunkazai/map.php x=135.017899021448&y=34.7147479759179&z=18&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=801cde10-a1f8-4b29-988d-0557e620822b 80 - 40.77.167.51 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 1185
 2022-01-09 03:24:41 133.242.13.171 GET /bunkazai/map.php X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=3456fd39-a822-4382-b9c1-1afd91f843cc 80 - 66.249.79.210 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4692.71+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 920
 2022-01-09 03:24:44 133.242.13.171 GET /bunkazai/bunkazai.all.css/bunkazai.css X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=035a3457-0e23-4a04-bca8-1d3469f85421 80 - 66.249.79.208 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/96.0.4664.110+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 421

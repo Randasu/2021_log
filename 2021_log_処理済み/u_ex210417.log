@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-04-17 00:00:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-04-17 00:12:31 133.242.13.171 GET /bunkazai/ - 80 - 125.174.64.88 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:87.0)+Gecko/20100101+Firefox/87.0 200 0 0 109
 2021-04-17 00:12:31 133.242.13.171 GET /bunkazai/css/reset.css - 80 - 125.174.64.88 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:87.0)+Gecko/20100101+Firefox/87.0 200 0 0 46
 2021-04-17 00:12:31 133.242.13.171 GET /bunkazai/css/common.css - 80 - 125.174.64.88 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:87.0)+Gecko/20100101+Firefox/87.0 200 0 0 109

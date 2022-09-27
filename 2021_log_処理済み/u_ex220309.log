@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-03-09 00:00:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-03-09 00:01:06 133.242.13.171 GET /bunkazai/img/photo/槌橋家住宅.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=6aa3e8d0-458a-4de9-bff6-17b43baac8b8 80 - 133.242.13.171 - 404 0 0 0
 2022-03-09 00:01:06 133.242.13.171 GET /bunkazai/syousai-2.php no=70&x=135.145400269052&y=34.6691067452617&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=e08a30bc-fd52-41a1-a516-917c5da1f16a 80 - 126.179.94.192 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_6)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/14.0.3+Safari/605.1.15 200 0 0 514
 2022-03-09 00:06:19 133.242.13.171 GET /bunkazai/img/photo/長田神社.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=17363e34-3288-458d-89e7-d6359a55f02d 80 - 133.242.13.171 - 200 0 64 0

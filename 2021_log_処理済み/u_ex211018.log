@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-10-18 00:00:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-10-18 00:59:49 133.242.13.171 GET /bunkazai/otoiawase.html X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=4c4cb9f5-cc3b-4582-a053-bddf5a5392f0 80 - 216.244.66.194 Mozilla/5.0+(compatible;+DotBot/1.2;++https://opensiteexplorer.org/dotbot;+help@moz.com) 200 0 0 639
 2021-10-18 01:19:50 133.242.13.171 GET /bunkazai/map.html X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=9e08258c-ab66-4641-83a4-874235ad0f4f 80 - 52.162.161.148 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 499
 2021-10-18 01:20:15 133.242.13.171 GET /bunkazai/bunkazai.all.css/bunkazai.css X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=8132cf71-143b-4b5d-919e-2c49a4af6555 80 - 40.77.167.26 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 670

@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-11-05 00:00:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-11-05 01:29:33 133.242.13.171 GET /bunkazai/map.php x=135.067484927346&y=34.6965600554953&z=18&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=f3c4652f-0a26-4fb7-8b66-b8cda22ccd9d 80 - 185.191.171.41 Mozilla/5.0+(compatible;+SemrushBot/7~bl;++http://www.semrush.com/bot.html) 200 0 0 967
 2021-11-05 01:42:08 133.242.13.171 GET /bunkazai/img/photo/太山寺本堂.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=1e158ab3-ace2-4c3b-afdf-d703952ddf1f 80 - 133.242.13.171 - 404 0 0 15
 2021-11-05 01:42:08 133.242.13.171 GET /bunkazai/syousai-2.php no=1&x=135.067484927346&y=34.6965600554953&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=d0cdc34c-9e76-49c3-a3b7-2b31fd8f60a5 80 - 185.191.171.2 Mozilla/5.0+(compatible;+SemrushBot/7~bl;++http://www.semrush.com/bot.html) 200 0 0 1170

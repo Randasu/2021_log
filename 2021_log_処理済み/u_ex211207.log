@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-12-07 00:00:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-12-07 01:05:11 133.242.13.171 GET /bunkazai/searchlist.php ku=%E8%A5%BF%E5%8C%BA&syubetu=&jidai=&siteikubun=&keyw=&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=5e56c037-b765-4998-aee9-ad4eda1332a5 80 - 157.55.39.101 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 1138
 2021-12-07 05:06:53 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=0913dbc0-9d9f-4432-bfe4-b2bc53b1938a 80 - 207.46.13.139 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 748
 2021-12-07 05:57:12 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=dcf47e9f-d580-47d3-9057-c80b7fba3e73 80 - 104.28.99.163 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+15_1_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/15.1+Mobile/15E148+Safari/604.1 200 0 0 390

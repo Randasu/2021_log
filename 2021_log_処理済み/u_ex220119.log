@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-01-19 00:00:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-01-19 00:14:25 133.242.13.171 GET /bunkazai/img/photo/白水瓢塚古墳.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=626cd470-8102-41e0-b308-f77a70668716 80 - 133.242.13.171 - 404 0 0 15
 2022-01-19 00:14:25 133.242.13.171 GET /bunkazai/syousai-2.php no=465&x=135.006297931058&y=34.6749899472586&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=9b86cb3c-5ea0-40b7-b6d9-12729b05e052 80 - 207.46.13.165 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 1060
 2022-01-19 01:03:54 133.242.13.171 OPTIONS /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=71a424cd-ef57-4265-82e2-36f2219bddf2 80 - 60.236.79.86 Microsoft+Office+Protocol+Discovery 200 0 0 358

@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-02-06 00:00:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-02-06 00:18:24 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=2f4aeb24-a456-4e5d-9953-bd92b6ebdcba 80 - 219.114.215.95 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+15_2+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+CriOS/97.0.4692.84+Mobile/15E148+Safari/604.1 200 0 0 499
 2022-02-06 00:18:24 133.242.13.171 GET /bunkazai/bunkazai.all.css/reset.css X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=99b9a52f-7f50-40dd-b157-044121113c4d 80 - 219.114.215.95 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+15_2+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+CriOS/97.0.4692.84+Mobile/15E148+Safari/604.1 200 0 0 62
 2022-02-06 00:18:24 133.242.13.171 GET /bunkazai/script.js X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=aca03746-e4ba-4f9b-8999-428248b259dd 80 - 219.114.215.95 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+15_2+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+CriOS/97.0.4692.84+Mobile/15E148+Safari/604.1 200 0 0 62

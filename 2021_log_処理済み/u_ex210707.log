@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-07-07 00:00:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-07-07 00:11:13 133.242.13.171 GET /bunkazai/syosai.asp no=406 80 - 66.249.79.190 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 109
 2021-07-07 00:11:15 133.242.13.171 GET /bunkazai/css/common.css - 80 - 66.249.79.161 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Chrome/91.0.4472.90+Safari/537.36 200 0 0 218
 2021-07-07 00:11:16 133.242.13.171 GET /bunkazai/img/photo/須磨琴（一絃琴）.jpg - 80 - 133.242.13.171 - 404 0 2 0

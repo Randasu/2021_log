@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-12-29 00:00:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-12-29 03:09:11 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=2f371bc2-ef82-47ff-818d-c5645d7017ae 80 - 207.46.13.206 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0 468
 2021-12-29 09:42:51 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=2d1724f2-4591-4e03-bfdc-e02c53d84e55 80 - 207.46.13.206 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 889
 2021-12-29 09:51:03 133.242.13.171 GET /bunkazai/syosai.asp no=82&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=be94596f-7b53-449d-b2f3-56a8c753514a 80 - 157.55.39.215 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 0 124

@@ -7,15 +7,14 @@ file_name = "2021_log"  # ここに処理を実行したいディレクトリ名
 after_folder = file_name + "_処理済み"
 os.makedirs(after_folder, exist_ok=True)
 for Path in pathlib.Path(file_name).iterdir():
-    first_4_lines = []
     with open(Path, "rb") as f:
         s = f.read()
         enc = chardet.detect(s)
     with open(Path, "r", encoding=enc["encoding"]) as rf:
+        first_4_lines = []
         for i in range(4):
             line = rf.readline()
             first_4_lines.append(line)
-        print(first_4_lines)
         s = rf.read()
         print(after_folder + "/" + Path.name)
 

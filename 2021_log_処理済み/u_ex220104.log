@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-01-04 00:00:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-01-04 00:16:32 133.242.13.171 GET /bunkazai/map.php x=135.071539545121&y=34.6971725182512&z=18&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=1a27fe4e-aa92-4b78-a48a-3c5d6a30bda9 80 - 207.46.13.10 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 967
 2022-01-04 02:39:56 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=b67fe1d0-f417-4e61-8292-57c287684650 80 - 207.46.13.206 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0 499
 2022-01-04 05:45:21 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=8c2bcc8f-7ce0-4f65-854d-c165ab76692e 80 - 218.251.114.7 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/96.0.4664.110+Safari/537.36 200 0 0 592

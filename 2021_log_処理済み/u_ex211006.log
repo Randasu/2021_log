@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-10-06 00:00:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-10-06 00:00:20 133.242.13.171 GET /bunkazai/img/photo/木造狛犬(太山寺).jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=c789c4b4-9b50-4d0d-8d2c-2130443e3abb 80 - 133.242.13.171 - 404 0 0 0
 2021-10-06 00:00:20 133.242.13.171 GET /bunkazai/syousai-2.php no=273&x=135.067484927346&y=34.6965600554953&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=6a63e2bb-137b-49d3-8e5e-dec69a7fbcf0 80 - 218.251.114.7 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.61+Safari/537.36 200 0 0 390
 2021-10-06 00:10:05 133.242.13.171 GET /bunkazai/img/photo/木造四天王立像.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=531cfdd1-6176-4751-8f5a-fb87a29d8841 80 - 133.242.13.171 - 404 0 0 0

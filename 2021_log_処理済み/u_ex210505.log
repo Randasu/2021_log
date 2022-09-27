@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-05-05 00:00:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-05-05 03:05:33 133.242.13.171 GET /bunkazai/guid.html - 80 - 54.36.149.38 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) 200 0 0 249
 2021-05-05 05:07:15 133.242.13.171 GET /bunkazai/ - 80 - 27.142.90.113 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/90.0.4430.93+Safari/537.36 200 0 0 78
 2021-05-05 05:07:15 133.242.13.171 GET /bunkazai/css/reset.css - 80 - 27.142.90.113 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/90.0.4430.93+Safari/537.36 200 0 0 62

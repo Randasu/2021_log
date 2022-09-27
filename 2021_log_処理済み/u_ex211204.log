@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-12-04 00:00:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-12-04 00:42:21 133.242.13.171 GET /bunkazai/guid.html X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=86e99e3c-d9ee-4e8a-a529-7056e5d3edfa 80 - 51.222.253.13 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) 200 0 0 842
 2021-12-04 00:56:37 133.242.13.171 GET /bunkazai/searchlist.php ku=%E5%85%B5%E5%BA%AB%E5%8C%BA&syubetu=&jidai=&siteikubun=&keyw=&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=4ca8021a-e75e-43ae-82e5-f62f042a864f 80 - 49.106.211.96 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+15_0_2+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+GSA/187.0.410885375+Mobile/19A404+Safari/604.1 200 0 0 312
 2021-12-04 00:56:41 133.242.13.171 GET /bunkazai/searchlist.php ku=%E5%85%B5%E5%BA%AB%E5%8C%BA&syubetu=&jidai=&siteikubun=&keyw=&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=15e8ed31-c849-44ec-b75d-4324fe2cdb5f 80 - 49.106.211.96 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+15_0_2+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+GSA/187.0.410885375+Mobile/19A404+Safari/604.1 200 0 0 327

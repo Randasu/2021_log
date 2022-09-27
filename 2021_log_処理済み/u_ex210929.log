@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-09-29 00:00:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-09-29 01:29:03 133.242.13.171 GET /bunkazai/syosai.asp no=406&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=a7e26625-1090-4c52-b3cf-4b044cd03bc9 80 - 51.222.253.1 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) 404 0 0 514
 2021-09-29 01:49:11 133.242.13.171 GET /bunkazai/searchlist.php ku=&syubetu=&jidai=&siteikubun=&keyw=%E7%94%9F%E7%94%B0&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=ef72e94f-7836-445e-a35e-75caec72496b 80 - 180.43.79.108 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.61+Safari/537.36 200 0 0 249
 2021-09-29 01:49:19 133.242.13.171 GET /bunkazai/searchlist.php ku=&syubetu=&jidai=&siteikubun=&keyw=%E6%B9%8A%E5%B7%9D&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=c0018848-dc0e-4374-8c3a-db9ad3c847b8 80 - 180.43.79.108 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.61+Safari/537.36 200 0 0 171

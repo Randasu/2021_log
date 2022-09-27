@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-04-12 00:00:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-04-12 02:38:34 133.242.13.171 GET /bunkazai/ - 80 - 13.66.139.133 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 218
 2021-04-12 02:51:23 133.242.13.171 GET /bunkazai/map.html - 80 - 185.191.171.35 Mozilla/5.0+(compatible;+SemrushBot/7~bl;++http://www.semrush.com/bot.html) 200 0 0 187
 2021-04-12 03:53:36 133.242.13.171 GET /bunkazai/map.html - 80 - 23.100.232.233 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.0;+Trident/5.0;++Trident/5.0) 200 0 0 156

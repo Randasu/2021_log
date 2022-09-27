@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-01-07 00:00:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-01-07 00:01:15 133.242.13.171 GET /bunkazai/map.php X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=fdcab675-41d7-4fe3-9a95-33f6e50b9f21 80 - 202.214.189.181 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/96.0.4664.110+Safari/537.36 200 0 0 561
 2022-01-07 00:01:15 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=f5aef520-1e84-406a-a7d2-7accc5847180 80 - 202.214.189.181 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/96.0.4664.110+Safari/537.36 200 0 0 31
 2022-01-07 00:02:15 133.242.13.171 GET /bunkazai/img/photo/神前の大クス.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=7f00f117-4d4f-423e-89d4-0c840d49ac24 80 - 133.242.13.171 - 200 0 64 15

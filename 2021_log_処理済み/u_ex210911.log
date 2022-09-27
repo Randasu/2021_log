@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-09-11 00:00:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-09-11 08:11:20 133.242.13.171 GET /bunkazai/map.asp x=71351.9557554217&y=-149523.459011022 80 - 114.119.155.38 Mozilla/5.0+(Linux;+Android+7.0;)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Mobile+Safari/537.36+(compatible;+PetalBot;+https://webmaster.petalsearch.com/site/petalbot) 200 0 0 93
 2021-09-11 08:32:39 133.242.13.171 GET /bunkazai/map.html - 80 - 66.249.79.190 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 124
 2021-09-11 12:19:53 133.242.13.171 GET /bunkazai/ - 80 - 207.46.13.85 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 234

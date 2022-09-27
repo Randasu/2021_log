@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-10-04 00:00:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-10-04 00:07:34 133.242.13.171 GET /bunkazai/bunkazai_json.php X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=b85f9eb2-5b69-4d6a-8166-ceecf555f688 80 - 66.249.79.206 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.54+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 951
 2021-10-04 03:41:25 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=0e61754f-8e10-454e-9330-4ee7233bb5aa 80 - 49.104.27.120 Mozilla/5.0+(Linux;+Android+10;+SO-02L)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.71+Mobile+Safari/537.36 200 0 0 390
 2021-10-04 03:41:25 133.242.13.171 GET /bunkazai/bunkazai.all.css/reset.css X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=77d42194-007c-4cd2-9137-5b039cc2e4e5 80 - 49.104.27.120 Mozilla/5.0+(Linux;+Android+10;+SO-02L)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.71+Mobile+Safari/537.36 200 0 0 46

@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-01-18 00:00:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-01-18 00:00:06 133.242.13.171 GET /bunkazai/img/photo/木造十一面観音立像.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=471775f5-995a-4283-b810-deb2040565a5 80 - 133.242.13.171 - 404 0 0 0
 2022-01-18 00:00:06 133.242.13.171 GET /bunkazai/syousai-2.php no=238&x=135.204832&y=34.711658&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=d3de7c06-55ae-47b6-81ad-cb4dfe460191 80 - 61.114.225.217 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4692.71+Safari/537.36 200 0 0 577
 2022-01-18 00:00:07 133.242.13.171 GET /bunkazai/bunkazai2019.geojson X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=adc3ff13-7e0e-4537-bd55-f0f564bf6f0e 80 - 61.114.225.217 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4692.71+Safari/537.36 200 0 0 764

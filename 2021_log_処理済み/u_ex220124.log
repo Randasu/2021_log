@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-01-24 00:00:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-01-24 01:18:44 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=11d19158-1b48-426a-bee0-2d632709e417 80 - 66.249.73.237 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/97.0.4692.71+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0 546
 2022-01-24 01:32:09 133.242.13.171 OPTIONS /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=f8e907b4-4b78-4d37-a815-512d6bd883ff 80 - 125.196.138.93 Microsoft+Office+Protocol+Discovery 200 0 0 31
 2022-01-24 01:32:09 133.242.13.171 GET /bunkazai/img/photo/賢愚経残巻（大聖武）.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=ed80e95d-25ba-4812-aaed-4a6638a47455 80 - 133.242.13.171 - 404 0 0 0

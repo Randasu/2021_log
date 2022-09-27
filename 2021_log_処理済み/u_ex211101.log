@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-11-01 00:00:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-11-01 00:30:41 133.242.13.171 GET /bunkazai/image_files/kobe_文化財画像/旧トーマス住宅.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=ab50315a-1ec0-49be-9e0f-0181fef10513 80 - 54.36.148.86 Mozilla/5.0+(compatible;+AhrefsBot/7.0;++http://ahrefs.com/robot/) 200 0 0 2542
 2021-11-01 00:49:18 133.242.13.171 GET /bunkazai/map.php x=134.98830612674&y=34.708935577925&z=18&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=5b18b955-b211-4dc7-ab61-aaae08f6f475 80 - 203.95.27.8 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.54+Safari/537.36+Edg/95.0.1020.40 200 0 0 202
 2021-11-01 00:49:19 133.242.13.171 GET /bunkazai/bunkazai.all.css/reset.css X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=14ae41dd-022d-415f-9397-5aad247077db 80 - 203.95.27.8 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.54+Safari/537.36+Edg/95.0.1020.40 200 0 0 31

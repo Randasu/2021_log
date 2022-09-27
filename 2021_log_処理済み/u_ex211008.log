@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-10-08 00:00:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-10-08 00:57:33 133.242.13.171 GET /bunkazai/image_files/kobe_文化財画像/太山寺本堂2013.JPG X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=43effd69-7123-409c-885d-cf27cddc3779 80 - 3.16.1.197 clark-crawler2/Nutch-1.19-SNAPSHOT 200 0 0 1669
 2021-10-08 01:16:17 133.242.13.171 GET /bunkazai/image_files/kobe_文化財画像/船屋形秋PB231755-2.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=0ee0d51b-3ab2-4566-9500-c83a9d7b0c97 80 - 3.16.1.197 clark-crawler2/Nutch-1.19-SNAPSHOT 200 0 0 1950
 2021-10-08 01:33:14 133.242.13.171 GET /bunkazai/img/photo/旧神戸居留地十五番館.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=33baca06-0a6e-43a4-8724-8a93c70d48a5 80 - 133.242.13.171 - 200 0 64 15

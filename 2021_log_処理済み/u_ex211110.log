@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-11-10 00:00:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-11-10 00:31:49 133.242.13.171 GET /bunkazai/searchlist.php ku=%E9%95%B7%E7%94%B0%E5%8C%BA&syubetu=&jidai=&siteikubun=&keyw=&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=5cb27b6f-3d36-497d-8ed9-32304d0312e5 80 - 211.11.14.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36+Edg/95.0.1020.44 200 0 0 343
 2021-11-10 00:32:01 133.242.13.171 GET /bunkazai/searchlist.php ku=%E9%95%B7%E7%94%B0%E5%8C%BA&syubetu=&jidai=&siteikubun=&keyw=&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=f6119afa-93ef-4f18-bc4e-8f3dd7dd2ca4 80 - 211.11.14.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36+Edg/95.0.1020.44 200 0 0 327
 2021-11-10 00:40:59 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=d614ee6d-a850-47e9-983f-eb53cca36700 80 - 182.166.106.7 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36 200 0 0 93

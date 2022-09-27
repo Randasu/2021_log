@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-02-19 00:00:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-02-19 02:30:38 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=392b01d9-06e6-41a5-9584-c883b124b414 80 - 66.249.79.188 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0 936
 2022-02-19 02:57:12 133.242.13.171 GET /bunkazai/otoiawase.html X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=8c3abd3e-ae18-4343-a66b-e03f29dd4247 80 - 157.55.39.6 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 655
 2022-02-19 03:43:54 133.242.13.171 GET /bunkazai/img/photo/木造阿弥陀三尊像.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=01128410-2263-4b30-866c-ac196b64703c 80 - 133.242.13.171 - 404 0 0 15

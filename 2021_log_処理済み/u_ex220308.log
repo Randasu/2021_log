@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2022-03-08 00:00:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2022-03-08 00:59:21 133.242.13.171 GET /bunkazai/map.php x=135.019846411691&y=34.6992541157258&z=18&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=bf8bf3e4-177c-4479-b2d9-eb471c72d77d 80 - 185.191.171.26 Mozilla/5.0+(compatible;+SemrushBot/7~bl;++http://www.semrush.com/bot.html) 200 0 0 1404
 2022-03-08 01:44:10 133.242.13.171 GET /bunkazai/map.php x=135.189475&y=34.701395&z=18&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=bf406751-22d6-424f-9a09-c14d562e6112 80 - 185.191.171.22 Mozilla/5.0+(compatible;+SemrushBot/7~bl;++http://www.semrush.com/bot.html) 200 0 0 1294
 2022-03-08 01:46:15 133.242.13.171 GET /bunkazai/img/photo/うろこの家（旧ハリヤー邸）主屋.jpg X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=1d668337-d400-4274-bdf9-a0a774731c6d 80 - 133.242.13.171 - 404 0 0 15

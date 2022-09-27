@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-11-18 00:00:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-11-18 00:10:29 133.242.13.171 GET /bunkazai/syosai.asp no=406&X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=afcd7e4e-2463-4673-84d7-28bfd431f245 80 - 66.249.79.206 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 0 109
 2021-11-18 00:12:15 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=3d1ae6be-d05f-44b7-b2e8-309e7f9ddab2 80 - 153.231.2.130 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36+Edg/95.0.1020.53 200 0 0 109
 2021-11-18 00:12:15 133.242.13.171 GET /bunkazai/bunkazai.all.css/reset.css X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=8ec4daea-8892-433e-945b-60493d39dbc0 80 - 153.231.2.130 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/95.0.4638.69+Safari/537.36+Edg/95.0.1020.53 200 0 0 46

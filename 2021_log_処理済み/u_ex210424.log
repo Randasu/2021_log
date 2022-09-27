@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-04-24 00:00:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-04-24 04:17:07 133.242.13.171 GET /bunkazai/syosai.asp no=406 80 - 180.131.118.59 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+1.0.3705) 200 0 0 31
 2021-04-24 04:17:07 133.242.13.171 GET /bunkazai/map.asp x=71351.9557554217&y=-149523.459011022 80 - 180.131.118.59 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+1.0.3705) 200 0 0 31
 2021-04-24 04:17:07 133.242.13.171 GET /bunkazai/syosai.asp no=551 80 - 180.131.118.59 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+1.0.3705) 200 0 0 15

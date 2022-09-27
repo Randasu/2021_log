@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-10-16 00:00:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-10-16 01:41:58 133.242.13.171 GET /bunkazai/img/tizukara.png X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=228086e7-d119-40d0-b10a-051f14a6df3f 80 - 40.77.167.16 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 200 0 0 1310
 2021-10-16 07:02:06 133.242.13.171 GET /bunkazai/ X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=0d026074-9353-4461-98c2-e502e8fd0dc7 80 - 202.235.158.56 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.81+Safari/537.36 200 0 0 327
 2021-10-16 07:02:06 133.242.13.171 GET /bunkazai/bunkazai.all.css/reset.css X-ARR-CACHE-HIT=0&X-ARR-LOG-ID=673383ce-6c47-4a8a-99b4-4bacfc1ea05d 80 - 202.235.158.56 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/94.0.4606.81+Safari/537.36 200 0 0 31

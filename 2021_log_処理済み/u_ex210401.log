@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-04-01 00:00:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-04-01 01:34:39 133.242.13.171 GET /bunkazai/img/photo/神戸外国人居留地計画図.jpg - 80 - 133.242.13.171 - 404 0 2 0
 2021-04-01 02:22:41 133.242.13.171 GET /bunkazai/img/photo/淡河八幡神社御弓神事.jpg - 80 - 133.242.13.171 - 200 0 995 15
 2021-04-01 02:22:41 133.242.13.171 GET /bunkazai/img/photo/淡河八幡神社御弓神事.jpg - 80 - 133.206.8.160 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.138+Safari/537.36 200 0 0 171

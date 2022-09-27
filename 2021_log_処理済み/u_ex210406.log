@@ -1,3 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2021-04-06 00:00:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
 2021-04-06 04:42:00 133.242.13.171 GET /bunkazai/img/photo/木造日光月光菩薩立像.jpg - 80 - 133.242.13.171 - 404 0 2 15
 2021-04-06 04:42:32 133.242.13.171 GET /bunkazai/ - 80 - 218.251.114.7 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 200 0 0 15
 2021-04-06 04:42:32 133.242.13.171 GET /bunkazai/css/reset.css - 80 - 218.251.114.7 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/89.0.4389.114+Safari/537.36 200 0 0 46

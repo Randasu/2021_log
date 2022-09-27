@@ -11,7 +11,11 @@ for Path in pathlib.Path(file_name).iterdir():
         s = f.read()
         enc = chardet.detect(s)
     with open(Path, "r", encoding=enc["encoding"]) as rf:
+        first_4_lines = []
         try:
+            for i in range(4):
+                line = rf.readline()
+                first_4_lines.append(line)
             s = rf.read()
             print(after_folder + "/" + Path.name)
 
@@ -20,8 +24,7 @@ for Path in pathlib.Path(file_name).iterdir():
             lines = "\n".join([line for line in s.splitlines() if "/bunkazai/" in line])
 
             with open(after_folder + "/" + Path.name, "w", encoding="utf-8") as wf:
-                for i in range(4):
-                    wf.writelines(rf.readline())
+                wf.writelines(first_4_lines)
                 wf.writelines(lines)
         except UnicodeDecodeError:
             # 読み込んだファイルが文字化けしてる時に実行

@@ -3,6 +3,10 @@ import pathlib
 import chardet
 import os
 
+# 最初の行を何行残すかを設定します。
+# いらない場合は下の変数は0でいいです。
+FIRST_EXTRACT_NUM = 4
+
 
 def get_encoding(
     path,
@@ -53,10 +57,10 @@ def get_encoding(
 
 
 def extracter(Path):
-    first_4_lines = []
-    for i in range(4):
+    first_lines = []
+    for i in range(FIRST_EXTRACT_NUM):
         line = rf.readline()
-        first_4_lines.append(line)
+        first_lines.append(line)
     s = rf.read()
     print(after_folder + "/" + Path.name)
 
@@ -65,7 +69,7 @@ def extracter(Path):
     lines = "\n".join([line for line in s.splitlines() if "/bunkazai/" in line])
 
     with open(after_folder + "/" + Path.name, "w", encoding="utf-8") as wf:
-        wf.writelines(first_4_lines)
+        wf.writelines(first_lines)
         wf.writelines(lines)
 
 
@@ -82,14 +86,12 @@ for Path in pathlib.Path(file_name).iterdir():
         except UnicodeDecodeError:
             # 読み込んだファイルが文字化けしてる時に実行
             # 文字化けしたファイルを読み込むのは難しいので手動でやってください
-            # with open(
-            #     after_folder + "/" + Path.name + "文字化け", "w", encoding="utf-8"
-            # ) as wf:
-            #     wf.write("文字化け")
             encoding = get_encoding(Path)
             if encoding:
                 with open(Path, "r", encoding=encoding) as rf:
                     extracter(Path)
             else:
-                pass
-# https://ginneko-atelier.com/blogs/entry336/
+                with open(
+                    after_folder + "/" + Path.name + "文字化け", "w", encoding="utf-8"
+                ) as wf:
+                    wf.write("文字化け")
